@@ -12,6 +12,7 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 
 ## 🔥 News
 - **[2025.09]** Bingqiao gave a talk at UCL Centre for Blockchain Technologies!
+- **[2025.09]** Bingqiao served as a session chair for VLDB 2025.
 - **[2025.07]** One paper was accepted at VLDB 2025!
 - **[2025.04]** Bingqiao was invited to serve as a reviewer for NeurIPS 2025.
 - **[2025.01]** Bingqiao was invited to serve as a Program Committee for IJCAI 2025.
