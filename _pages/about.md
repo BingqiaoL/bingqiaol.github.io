@@ -16,7 +16,7 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 - **[2025.04]** Bingqiao was invited to serve as a reviewer for NeurIPS 2025.
 - **[2025.01]** Bingqiao was invited to serve as a Program Committee for IJCAI 2025.
 - **[2024.12]** One paper was accepted at NeurIPS 2024!
-- **[2024.11]** One paper was accepted to ACM Computing Surveys. Check the [Survey](https://dl.acm.org/doi/pdf/10.1145/3705296)
+- **[2024.11]** One paper was accepted to ACM Computing Surveys. Check the survey [here](https://dl.acm.org/doi/pdf/10.1145/3705296)
 - **[2024.10]** Our paper was accepted to EMNLP 2024 (Main).
 - **[2024.05]** Bingqiao presented at the PhD Forum paper at The Web Conference 2024 (WWW)!
 
