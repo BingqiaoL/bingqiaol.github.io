@@ -22,7 +22,7 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 
 
 ## 📝 Selected Publications
-Full list of papers and citations: [Google Scholar](https://scholar.google.com/citations?user=eJAZkrUAAAAJ&hl=en)
+Full list of papers: [Google Scholar](https://scholar.google.com/citations?user=eJAZkrUAAAAJ&hl=en)
 
 📖 **RICH: Real-time Identification of negative Cycles for High-efficiency Arbitrage**
 *Bingqiao Luo*, Jiaxin Jiang, Yuhang Chen, Junyi Hou, Cheng Jun Tey, Ziyang Qiu, Bingsheng He, Spencer Xiao, Dominic Ong, Wee Howe Ang
