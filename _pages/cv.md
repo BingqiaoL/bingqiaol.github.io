@@ -14,7 +14,6 @@ redirect_from:
 - **B.Sc., Business Analytics (Honours, Highest Distinction)**, National University of Singapore — *2018 – 2022*  
 
 ## Experience
-- **Research Assistant**, National University of Singapore — *Jun 2022 – Present* · Singapore
 - **Data Analytics Intern**, Dyson — *May 2021 – Aug 2021* · Singapore  
   Worked in the Digital Motors Team on data-driven optimization of motor assembly processes.
 - **Research Assistant (Part-time)**, National University of Singapore — *Dec 2020 – Apr 2021*  
