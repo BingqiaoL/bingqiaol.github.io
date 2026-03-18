@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 ## 👋🏻 About Me
-I am currently a fourth-year Ph.D. student and Research Assistant at the National University of Singapore under the guidance of Professor [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I earned my Bachelor’s degree in Business Analytics from the National University of Singapore. My research sits at the intersection of **cryptocurrency**, **graph analytics**, and **data mining**, with applications to  **cryptocurrency economics**, and **fraud/risk analysis**. 
+I am currently a fourth-year Ph.D. student at the National University of Singapore under the guidance of Professor [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I earned my Bachelor’s degree in Business Analytics from the National University of Singapore. My research sits at the intersection of **cryptocurrency**, **graph analytics**, and **data mining**, with applications to  **cryptocurrency economics**, and **fraud/risk analysis**. 
 
 ## 🔥 News
+- **[2026.02]** One paper was accepted at SIGMOD 2026!
+- **[2026.02]** One paper was accepted at ICDE 2026!
 - **[2025.09]** Bingqiao gave a talk at UCL Centre for Blockchain Technologies!
 - **[2025.09]** Bingqiao served as a session chair for VLDB 2025.
 - **[2025.07]** One paper was accepted at VLDB 2025!
