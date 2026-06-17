@@ -27,6 +27,14 @@ I am currently a fourth-year Ph.D. student at the National University of Singapo
 ## 📝 Selected Publications
 Full list of papers: [Google Scholar](https://scholar.google.com/citations?user=eJAZkrUAAAAJ&hl=en)
 
+📖 **TRADER: Real-Time Arbitrage Detection via Negative Cycles on Dynamic Graphs**
+*Bingqiao Luo*, Yuhang Chen, Jiaxin Jiang, Yuheng Cong, Ziyu He, Shixuan Sun, Bingsheng He, Wee Howe Ang
+*IEEE International Conference on Data Engineering, 2026*
+
+📖 **ORDER: Optimal Routing with Path Indexing in Exchange Graph**
+*Bingqiao Luo*, Yuhang Chen, Yuheng Cong, Ziyu He, Jiaxin Jiang, Shixuan Sun, Bingsheng He, Wee Howe Ang
+*ACM SIGMOD International Conference on Management of Data, 2026*
+
 📖 **RICH: Real-time Identification of negative Cycles for High-efficiency Arbitrage**
 *Bingqiao Luo*, Jiaxin Jiang, Yuhang Chen, Junyi Hou, Cheng Jun Tey, Ziyang Qiu, Bingsheng He, Spencer Xiao, Dominic Ong, Wee Howe Ang
 *PVLDB, 2025*
